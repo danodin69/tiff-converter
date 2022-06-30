@@ -37,6 +37,6 @@ Open it and run this code.
 
 
 # Common Error
-Memory Error occurs when the tiff file you are using is too large, it will take up memory in your RAM and fail.
+Memory Error occurs when the tiff file you are using is too large, it will take up memory in your RAM and fail If you don't have enough.
 
 Open an issue on my github if you have problems.
