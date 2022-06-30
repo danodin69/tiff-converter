@@ -36,7 +36,7 @@ Then install Spyder IDE from the anaconda navigator!
 Open it and run this code.
 
 
-#Common Error
+# Common Error
 Memory Error occurs when the tiff file you are using is too large, it will take up memory in your RAM and fail.
 
 Open an issue on my github if you have problems.
