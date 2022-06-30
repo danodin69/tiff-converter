@@ -3,7 +3,7 @@
 Created on Wed Jun 29 14:01:18 2022
 Modified on thur Jun 30 23:11:12 2022
 author : @dpoxo
-uding python 3.6
+using python 3.6
 
 """
 
